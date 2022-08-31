@@ -1,5 +1,19 @@
 # spring-boot-swing-crud-learning
 
+
+
+
+## Technologies
+
+- Spring Boot
+- Swing
+- Spring Boot DevTools
+- Spring Data JPA
+- Lombok
+- PostgreSQL
+
+## For Update
+---
 1. User's ID value checked
 
 (We get a warning if the ID value is not available)
