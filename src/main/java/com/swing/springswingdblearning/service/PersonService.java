@@ -3,7 +3,6 @@ package com.swing.springswingdblearning.service;
 import com.swing.springswingdblearning.dto.PersonDto;
 import com.swing.springswingdblearning.model.Person;
 
-import java.util.List;
 
 public interface PersonService {
     Person savePerson(PersonDto personDto);
